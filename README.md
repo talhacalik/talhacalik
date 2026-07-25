@@ -18,3 +18,5 @@ Software Engineer | Backend Developer
 **Tools:** Git, Docker, IntelliJ IDEA, Jenkins, GitHub, Jira, VS Code, Postman
 
 </details>
+
+<img src="./led.svg" alt="talhacalik" />
