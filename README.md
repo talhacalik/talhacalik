@@ -7,15 +7,40 @@ Software Engineer | Backend Developer
 - 📧 Contact: calikmuhammedtalha@gmail.com
 
 <details>
-<summary><b>Details</b></summary>
+<summary><b>Competencies</b></summary>
 
-## Technologies
+## 🧠 Backend Development
 
-**Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, REST API, JUnit, Maven, Microservices, PostgreSQL, Redis, Kubernetes
+| Category                | Skills                                                                 |
+| ------------------------ | ---------------------------------------------------------------------|
+| **Java Ecosystem**       | Java, Spring Boot, Spring Security, Hibernate, JPA, Maven             |
+| **APIs & Architecture**  | REST APIs, Microservices, JUnit                                       |
 
-**Mobile:** React Native, Expo, TypeScript, React Navigation, React Query, EAS Build
+---
 
-**Tools:** Git, Docker, IntelliJ IDEA, Jenkins, GitHub, Jira, VS Code, Postman
+## 🗄️ Data & Infrastructure
+
+| Category                 | Skills                          |
+| ------------------------- | -------------------------------|
+| **Databases & Caching**   | PostgreSQL, Redis               |
+| **Orchestration**         | Docker, Kubernetes              |
+
+---
+
+## 📱 Mobile Development
+
+| Category            | Skills                                                                          |
+| -------------------- | --------------------------------------------------------------------------------|
+| **React Native**    | React Native, Expo, TypeScript, React Navigation, React Query, EAS Build         |
+
+---
+
+## 🔧 Development & DevOps
+
+| Category              | Skills                                             |
+| ---------------------- | -----------------------------------
+| **Version Control**   | Git, GitHub                                         |
+| **CI/CD & Tooling**   | Jenkins, IntelliJ IDEA, VS Code, Jira, Postman      |
 
 </details>
 
