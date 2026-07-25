@@ -10,6 +10,7 @@ Software Engineer | Backend Developer
 <summary><b>Technologies</b></summary>
   
 
+
 **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, REST API, JUnit, Maven, Microservices, PostgreSQL, Redis, Kubernetes
 
 **Mobile:** React Native, Expo, TypeScript, React Navigation, React Query, EAS Build
