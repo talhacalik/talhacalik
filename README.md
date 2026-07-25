@@ -16,7 +16,7 @@ Software Engineer | Backend Developer
 | **Java Ecosystem**       | Java, Spring Boot, Spring Security, Hibernate, JPA, Maven             |
 | **APIs & Architecture**  | REST APIs, Microservices, JUnit                                       |
 
----
+
 
 ## 🗄️ Data & Infrastructure
 
@@ -25,7 +25,7 @@ Software Engineer | Backend Developer
 | **Databases & Caching**   | PostgreSQL, Redis               |
 | **Orchestration**         | Docker, Kubernetes              |
 
----
+
 
 ## 📱 Mobile Development
 
@@ -33,7 +33,6 @@ Software Engineer | Backend Developer
 | -------------------- | --------------------------------------------------------------------------------|
 | **React Native**    | React Native, Expo, TypeScript, React Navigation, React Query, EAS Build         |
 
----
 
 ## 🔧 Development & DevOps
 
