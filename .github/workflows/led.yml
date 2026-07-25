@@ -10,8 +10,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: talhacalik/led-scroll-action@v1
         with:
-          text: TALHACALIK
-          color: '#b026ff'
+          text: HELLO WORLD !
+          color: '#bff7ff'
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'update led banner'
