@@ -19,4 +19,4 @@ Software Engineer | Backend Developer
 
 </details>
 
-<img src="./led.svg" alt="led-scroll-action" width="100%" />
+<img src="./led.svg" alt="led-scroll-action" width="90%" />
