@@ -7,9 +7,8 @@ Software Engineer | Backend Developer
 - 📧 Contact: calikmuhammedtalha@gmail.com
 
 <details>
-<summary><b>Competencies</b></summary>
+<summary><b>Technologies</b></summary>
   
-## Technologies
 
 **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, REST API, JUnit, Maven, Microservices, PostgreSQL, Redis, Kubernetes
 
