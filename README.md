@@ -1,8 +1,10 @@
-# talhacalik
+# talhacalik                                                        
 Software Engineer | Backend Developer
 - 🎓 Computer Engineering, Atatürk University (2021–2026)
 - 📍 Based in Samsun, Turkey
 - ✉️ Contact: calikmuhammedtalha@gmail.com
+
+<a href="https://talhacalik.com"><img src="pixel-badge.svg" height="40"/></a>
 
 <details>
 <summary><b>Competencies</b></summary>
