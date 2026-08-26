@@ -42,3 +42,5 @@ Software Engineer | Backend Developer
 | **CI/CD & Tooling**   | Jenkins, IntelliJ IDEA, VS Code, Jira, Postman      |
 
 </details>
+
+![My GitHub Game](game.gif)
