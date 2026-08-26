@@ -42,7 +42,3 @@ Software Engineer | Backend Developer
 | **CI/CD & Tooling**   | Jenkins, IntelliJ IDEA, VS Code, Jira, Postman      |
 
 </details>
-
-<p align="center">
-  <img src="./led.svg" alt="led-scroll-action" />
-</p>
